@@ -1,0 +1,8 @@
+{
+   id = sown.techmod,
+   name = Necesse Tech Fixed,
+   version = 1.0,
+   gameVersion = 0.21.29,
+   description = Adds useful machines,
+   author = Sown (Author), Fixed by Tatsuya91,
+}
